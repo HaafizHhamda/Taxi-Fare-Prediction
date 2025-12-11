@@ -20,6 +20,7 @@ sehingga meningkatkan kepercayaan pelanggan terhadap tarif perjalanan taxi dan m
 ## Data
 
 Dataset: https://www.kaggle.com/datasets/denkuznetz/taxi-price-prediction 
+
 **Dataset Information**:
 - **Trip_Distance**: Total jarak perjalanan dalam kilometer.  
 - **Trip_Duration**: Lama waktu perjalanan dalam menit.  
@@ -31,7 +32,6 @@ Dataset: https://www.kaggle.com/datasets/denkuznetz/taxi-price-prediction
 - **Trip_Price**: Total tarif atau harga yang dibayarkan untuk perjalanan. 
 
 
-Predict tarif secara akurat dan faktor apa yang mempengaruh tarif. menggunkan meodel Decision Tree, KKN, SVM, Random Forest, and XGBoost untuk meningkatkan transparansi dan keadilan harga
 
 ## Method
 
